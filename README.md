@@ -1,4 +1,4 @@
-<p align="left">Hello, I'm Ayub Thapa! 👋</p>
+<h2 align="left">Hello, I'm Ayub Thapa! 👋</h2>
 
 ###
 
