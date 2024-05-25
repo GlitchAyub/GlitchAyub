@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Machine Learning And Google OR-Tools</p>
+<p align="left">- 🌱 I’m currently learning Machine Learning </p>
 
 ###
 
