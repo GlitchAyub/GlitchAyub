@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Machine Learning </p>
+<p align="left">- 🌱 I’m currently learning Machine Learning  & Deep Learning</p>
 
 ###
 
